@@ -4,7 +4,7 @@ on: push
 
 jobs:
   build:
-    name: continuous-integration
+    name: ci 
     runs-on: ubuntu-latest
     strategy:
       matrix:
