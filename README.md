@@ -4,7 +4,7 @@
 
 Where you test hypotheses and shit.
 
-[![Test Status](https://github.com/andycasey/science/actions/workflows/ci.yml/badge.svg)](https://github.com/andycasey/science/actions/workflows/ci.yml)
+[![Test Status](https://github.com/andycasey/science/actions/workflows/ci.yml/badge.svg)](https://github.com/andycasey/science/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/andycasey/science/badge.svg?branch=main&service=github)](https://coveralls.io/github/andycasey/science?branch=main)
 
 </div>
