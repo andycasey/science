@@ -1,6 +1,6 @@
 <div align="Center">
 
-# Science 
+# science 
 
 Where you test hypotheses and shit.
 
