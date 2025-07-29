@@ -1,3 +1,7 @@
+name: Continuous integration
+
+on: push
+
 jobs:
   build:
     name: continuous-integration
